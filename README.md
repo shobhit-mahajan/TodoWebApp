@@ -33,9 +33,11 @@ Ensure you have the following installed:
    git clone https://github.com/your-username/todo-list.git
    cd todo-list
 2. **Install dependencies**
--npm install
-3. **Start the development server**
-- npm run dev
+   ```bash
+   npm install
+4. **Start the development server**
+   ```bash
+    npm run dev
 4. **Open the application in your browser**
 - Navigate to - localhost:3000
 
